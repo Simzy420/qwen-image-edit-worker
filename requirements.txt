@@ -1,0 +1,14 @@
+transformers
+accelerate
+diffusers
+peft
+huggingface_hub
+sentencepiece
+torchvision
+supervision
+kernels
+spaces
+hf_xet
+torch==2.9.1
+numpy
+av
